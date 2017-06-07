@@ -1,4 +1,8 @@
-Instrukcja odpalenia:
+# Opis
+Zaimplementowano jak na razie wyświetlanie z bazy przedmiotów, funkcjonalność listy życzeń i koszyka.
+
+
+# Instrukcja odpalenie
 1. composer install.
 2. Zmienić z .env.example na .env i dostosować ten plik do swojej bazy danych.
 3. php artisan key:generate
