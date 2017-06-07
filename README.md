@@ -1,5 +1,5 @@
 # Opis
-Zaimplementowano jak na razie wyświetlanie z bazy przedmiotów, funkcjonalność listy życzeń i koszyka.
+Zaimplementowano jak na razie wyświetlanie z bazy przedmiotów, funkcjonalność listy życzeń i koszyk.
 
 
 # Instrukcja odpalenie
